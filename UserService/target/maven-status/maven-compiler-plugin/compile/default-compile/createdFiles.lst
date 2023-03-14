@@ -1,0 +1,5 @@
+com\yjq\programmer\dao\UserMapper.class
+com\yjq\programmer\service\impl\UserServiceImpl.class
+com\yjq\programmer\UserServiceApplication.class
+com\yjq\programmer\controller\UserController.class
+com\yjq\programmer\service\IUserService.class

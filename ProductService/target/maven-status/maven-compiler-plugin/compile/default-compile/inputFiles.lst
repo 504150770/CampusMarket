@@ -1,0 +1,13 @@
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\controller\ProductController.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\dao\ProductMapper.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\ProductServiceApplication.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\repository\ProductRepository.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\feignclient\UserClient.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\config\ESRestClientConfig.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\domain\ProductExample.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\domain\Category.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\dao\CategoryMapper.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\service\impl\ProductServiceImpl.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\domain\CategoryExample.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\service\IProductService.java
+D:\idea_project\CampusMarket\ProductService\src\main\java\com\yjq\programmer\domain\Product.java
